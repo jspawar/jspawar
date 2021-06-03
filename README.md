@@ -1,4 +1,4 @@
-![poop](chef-kiss-emoji.png)
+![poopoo](chef-kiss-emoji.png)
 
 <!--
 **jspawar/jspawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
