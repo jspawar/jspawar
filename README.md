@@ -1,4 +1,4 @@
-![wow](https://user-images.githubusercontent.com/32091345/145164578-eab13b3c-90ba-43ad-8057-97e2cb1fa031.gif)
+![wow](https://raw.githubusercontent.com/jspawar/jspawar/main/fbbfa385e44c21d8.png)
 
 <!--
 **jspawar/jspawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
